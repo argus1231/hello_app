@@ -1,4 +1,9 @@
-== README
+== REt remote add origin https://github.com/argus1231/hello_app.git
+
+C
+C
+C
+git push -u origin masterADME
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
